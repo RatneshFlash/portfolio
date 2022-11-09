@@ -2,6 +2,13 @@
 ---
 ## Machine learning
 
+### Lending Club Case Study
+
+Apply EDA technique to minimise risk of losing money while lending to customer.
+The analysis help to identify which type of borrower likely to Pay fully loan OR likely to default
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RatneshFlash/LendingClubCaseStudy)
+
 ### Fraud Detection
 
 Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
